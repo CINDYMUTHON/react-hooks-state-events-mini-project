@@ -1,3 +1,5 @@
+
+
 import React,{ useState }from "react";
 
 function NewTaskForm({ onTaskFormSubmit, categories }) {
@@ -34,4 +36,4 @@ function NewTaskForm({ onTaskFormSubmit, categories }) {
   );
 }
 
-export default NewTaskForm;
+export default NewTaskForm
